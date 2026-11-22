@@ -1,0 +1,10 @@
+{
+  "id": "routine-progress",
+  "name": "Routine Progress",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Score your day with points, watch it move like a stock, and keep streaks going.",
+  "author": "Baymurat785",
+  "authorUrl": "https://github.com/Baymurat785",
+  "isDesktopOnly": false
+}
